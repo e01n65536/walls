@@ -4,4 +4,6 @@ These are the only parts of [dkeg]'s wonderful [crayolo] project that I use - th
 
 Seriously. That shit be ###**SEXY**### in ways not conveyable with md. Or even the most arcane LaTeX possible. "Taste The Rainbow" doesn't even come close. "Splosh orgy with a cast of thousands and The Rainbow," maybe... YMMV
 
-I'm still working out efficient shell to automate these things (and other derivative scheme structures), as my dinosaur mind wrote them in Perl. Eventually, they'll show up... but don't hold your breath too long (unless that's a kink of yours. in that case, um, er... RACK, okay?)
+I'm still working out efficient shell to automate scripting the variations (and other derivative Xres scheme structures), as my dinosaur mind wrote them in really, really kludgy Perl. Eventually, they'll show up... but don't hold your breath too long (unless that's a kink of yours. in that case, um, er... RACK, okay?)
+
+love, eoin
